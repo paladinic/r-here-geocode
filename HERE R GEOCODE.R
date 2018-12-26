@@ -3,6 +3,7 @@
 # The following code simplifies the use of the HERE (https://developer.here.com/).
 # HERE provides a set of GIS functionalities such as routing and geocoding, but for now only geocoding is included in this code.
 # HERE provides 250K free transactions per month.
+# visit "https://developer.here.com/" for more information
 
 
 # Libraries
